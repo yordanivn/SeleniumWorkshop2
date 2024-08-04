@@ -101,3 +101,4 @@
 /Users/yordan.i/Desktop/2-SeleniumWebDriver/TestProject3/obj/Debug/net6.0/TestProject3.pdb
 /Users/yordan.i/Desktop/2-SeleniumWebDriver/TestProject3/obj/Debug/net6.0/TestProject3.genruntimeconfig.cache
 /Users/yordan.i/Desktop/2-SeleniumWebDriver/TestProject3/obj/Debug/net6.0/ref/TestProject3.dll
+/Users/yordan.i/Desktop/2-SeleniumWebDriver/TestProject3/obj/Debug/net6.0/TestProject3.sourcelink.json
